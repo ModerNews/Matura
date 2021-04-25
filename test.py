@@ -1,4 +1,16 @@
-import datetime
-date1 = datetime.datetime(1945, 7, 14)
-current_time = 8812800000
-print((date1 + datetime.timedelta(milliseconds=current_time)).date())
+import time
+from everydayAPI import *
+
+list = list_generator(1000000, 5)
+
+start_time = time.time()
+print(f"Official: Leader is {array_leader_cross(list)}, execution took {time.time() - start_time}")
+
+start_time = time.time()
+print(f"Grzegorz: Leader is {array_leader(list)}, execution took {time.time() - start_time}")
+
+start_time = time.time()
+print(f"Rafał: Leader is {array_leader_count(list)}, execution took {time.time() - start_time}")
+
+start_time = time.time()
+print(f"Rafał, set: Leader is {set_leader_count(list)}, execution took {time.time() - start_time}")

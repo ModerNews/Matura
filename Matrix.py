@@ -1,7 +1,7 @@
 def dot(A: list, B: list):
     C = []
     if not compatibility_check(A, B):
-        return None, A
+        raise ValueError("The matrices are non-multiplying")
     for i in range(len(A)):
         C.append([])
         temp = []

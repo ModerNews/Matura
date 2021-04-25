@@ -1,17 +1,4 @@
-def to_pseudo_json(file):
-    list = []
-    temp = file.read().split('\n')
-    temp[0] = temp[0].split('\t')
-    for line in temp[1:-1]:
-        line = line.split('\t')
-        temp_dict = {}
-        i = 0
-        for element in line:
-            temp_dict[temp[0][i]] = element
-            i += 1
-        list.append(temp_dict)
-    return list
-
+from everydayAPI import to_pseudo_json
 
 meldunek = []
 studenci = []

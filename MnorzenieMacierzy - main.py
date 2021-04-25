@@ -34,19 +34,19 @@ for line in lines:
 print('Clear python solution:')
 start_time = time.time()
 C = matrices[0]
-for i in range(1, len(matrices)):
-    try:
-        C = Matrix.dot(C, matrices[i])
-        if C[0] is None:
-            print('Unable to multiply those matrices')
-            break
-    except IndexError:
-        traceback.print_exc()
-        pass
-if len(C) == 2:
-    C = C[1]
-for line in C:
-    print(line)
+try:
+    for i in range(1, len(matrices)):
+        try:
+            C = Matrix.dot(C, matrices[i])
+        except IndexError:
+            traceback.print_exc()
+            pass
+    if len(C) == 2:
+        C = C[1]
+    for line in C:
+        print(line)
+except ValueError:
+    print('Unable to multiply those matrices into')
 
 print(f'took {time.time() - start_time}')
 
