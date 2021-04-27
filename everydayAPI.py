@@ -1,4 +1,6 @@
 from random import *
+import re
+
 def to_pseudo_json(file):
     list = []
     temp = file.read().split('\n')
@@ -38,6 +40,23 @@ def warden_search(array: list, value: int, warden: int = None):
         return i
 
 
+def indexes(array: list, value: int):
+    return [i for i in range(len(array)) if i == value]
+
+def array_leader(array: list):
+    dict = {}
+    for n in array:
+        if n in list(dict.keys()):
+            dict[n] += 1
+        else:
+            dict[n] = 1
+    max_count = max(list(dict.values()))
+    if max_count > len(array) // 2:
+        return list(dict.keys())[list(dict.values()).index(max_count)]
+    else:
+        raise ValueError('Providen array does not have a leader')
+
+
 def array_leader_cross(array: list):
     leader = array[0]
     pair = 1
@@ -54,7 +73,11 @@ def array_leader_cross(array: list):
     if pair == 0:
         raise ValueError('Providen array does not have a leader')
 
-    count = array.count(leader)
+    # count = array.count(leader)
+    count = 0
+    for i in range(len(array)):
+        if array[i] == leader:
+            count += 1
 
     if count > len(array) // 2:
         return leader
@@ -62,7 +85,7 @@ def array_leader_cross(array: list):
     raise ValueError('Providen array does not have a leader')
 
 
-def array_leader(array: list):
+def array_leader_count(array: list):
     for x in array:
         if array.count(x) > (len(array)//2):
             return x
@@ -83,3 +106,19 @@ def list_generator(len: int, leader: int = None):
             array.append(randint(0, 9))
     array.append(leader)
     return array
+
+
+def iq_check(text: str, words_filename: str = 'odm.txt', names_filename: str = 'names.txt'):
+    text = text.split()
+    iq_checks = []
+    with open(words_filename, 'r+', encoding='utf-8') as words_file:
+        words = re.split('\n|, ', words_file.read())
+    with open(names_filename, 'r+', encoding='utf-8') as words_file:
+        names = re.split('\n|, ', words_file.read())
+
+    i = 0
+    for word in text:
+        if word not in words and word not in names:
+            iq_checks.append({word: i})
+        i += 1
+    return iq_checks
