@@ -1,8 +1,6 @@
 import pandas as pn
 import logging as logger
 
-# Grzegorz Jagielski i Michał Waluś
-
 logger.basicConfig(filename='Korespondencja.log', level=logger.DEBUG, format='[%(levelname)s]%(message)s', filemode='w')
 logger.info('Starting')
 

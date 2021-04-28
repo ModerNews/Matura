@@ -2,6 +2,7 @@ import os
 import traceback
 
 from PIL import Image
+
 type = input("Wich file type do you want?")
 
 strdir = input('Provide abslute path to your files')
