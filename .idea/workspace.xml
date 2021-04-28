@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42f213ad-342a-4159-8a77-58c388db21e9" name="Default Changelist" comment="iq check checker">
-      <change afterPath="$PROJECT_DIR$/Plagiat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2008_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/2008_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/74_2012_pp.py" beforeDir="false" afterPath="$PROJECT_DIR$/2012_4_pp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/74_2012_pr.py" beforeDir="false" afterPath="$PROJECT_DIR$/2012_4_pr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Konwerter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Konwerter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KorespondencjaSeryjna.py" beforeDir="false" afterPath="$PROJECT_DIR$/KorespondencjaSeryjna.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hasła_a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/hasła_a.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snap.txt" beforeDir="false" afterPath="$PROJECT_DIR$/snap.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sz.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sz.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2007_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/everydayAPI.py" beforeDir="false" afterPath="$PROJECT_DIR$/everydayAPI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +45,28 @@
       <recent name="C:\Users\ADMIN\PycharmProjects\Matura" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.2007_5">
+    <configuration name="2007_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Matura" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2007_5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="2016_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Matura" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -137,8 +153,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Plagiat" />
+        <item itemvalue="Python.2007_5" />
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.Plagiat" />
         <item itemvalue="Python.everydayAPI" />
         <item itemvalue="Python.2016_5" />
       </list>
@@ -220,6 +237,11 @@
           <url>file://$PROJECT_DIR$/everydayAPI.py</url>
           <line>121</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/everydayAPI.py</url>
+          <line>131</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

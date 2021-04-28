@@ -122,3 +122,13 @@ def iq_check(text: str, words_filename: str = 'odm.txt', names_filename: str = '
             iq_checks.append({word: i})
         i += 1
     return iq_checks
+
+
+def is_super_even(number: int):
+    return all(int(n) % 2 == 0 for n in str(number))
+
+
+def is_prime(number: int):
+    return number != 1 and not any(number % divider == 0 for divider in range(2, number//2 + 1))
+    # for divider in range(2, number // 2):
+    #     if number % divider == 0
