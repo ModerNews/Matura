@@ -15,7 +15,7 @@ def eval_x(votes, slots: int):
         maxVal = max(x)
         got_slots[x.index(maxVal) + 1] += 1
         x.clear()
-    # return list(got_slots.values()).index(max(got_slots.values())) + 1
+    # return temp_list(got_slots.values()).index(max(got_slots.values())) + 1
     return got_slots
 
 with open("dane.txt") as file:
