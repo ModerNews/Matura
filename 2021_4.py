@@ -44,7 +44,17 @@ for instruction in instructions:
 print(len)
 
 print('#3')
+letters = {}
+for instruction in instructions:
+    instruction = instruction.split(' ')
+    if instruction[0].lower() == "dopisz":
+        if instruction[1] in letters:
+            letters[instruction[1]] += 1
+        else:
+            letters[instruction[1]] = 1
 
+print(letters)
+print(list(letters.keys())[list(letters.values()).index(max(list(letters.values())))])
 
 print('#4')
 print(''.join(string))
