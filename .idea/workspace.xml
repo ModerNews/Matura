@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42f213ad-342a-4159-8a77-58c388db21e9" name="Default Changelist" comment="Starsza stara forma 2011 zadanie 5 pr">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2011_6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="42f213ad-342a-4159-8a77-58c388db21e9" name="Default Changelist" comment="Starsza stara forma 2011 zadanie 6 pr">
+      <change beforePath="$PROJECT_DIR$/2011_5_writer.py" beforeDir="false" afterPath="$PROJECT_DIR$/2011_5_writer.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,7 +189,7 @@
       <workItem from="1642401933948" duration="455000" />
       <workItem from="1642402711275" duration="587000" />
       <workItem from="1643563301826" duration="2720000" />
-      <workItem from="1643575526488" duration="3813000" />
+      <workItem from="1643575526488" duration="4141000" />
     </task>
     <task id="LOCAL-00001" summary="Zadanie 5 (Bazo danowe) matura 2016">
       <created>1618832581199</created>
@@ -256,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643578152649</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Starsza stara forma 2011 zadanie 6 pr">
+      <created>1643579489723</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1643579489723</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -284,7 +289,8 @@
     <MESSAGE value="Zbiór zadań maturalnych, stara formuła, zadanie 85" />
     <MESSAGE value="Starsza stara formu 2011 zadanie 4 pr" />
     <MESSAGE value="Starsza stara forma 2011 zadanie 5 pr" />
-    <option name="LAST_COMMIT_MESSAGE" value="Starsza stara forma 2011 zadanie 5 pr" />
+    <MESSAGE value="Starsza stara forma 2011 zadanie 6 pr" />
+    <option name="LAST_COMMIT_MESSAGE" value="Starsza stara forma 2011 zadanie 6 pr" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
