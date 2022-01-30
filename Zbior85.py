@@ -49,16 +49,16 @@ while True:
             mixes["owcze"] += make_cheese(milk)[0]
             mixes["krowie 20%"] += make_cheese(milk, 0.8)[0]
             mixes["krowie 40%"] += make_cheese(milk, 0.6)[0]
+            print(current_day, milk, make_cheese(milk, 0.8)[0])
 
     if current_day > end_day:
         break
     if current_day == change_day:
         change = 0.9
     if current_day.weekday() == 2 and current_day >= datetime.datetime(2014, 4, 30, 0, 0, 0):
-        milk_daily = round(milk_daily*change, 2)
+        milk_daily = math.round(milk_daily*change, 2)
 
     milk = animals * milk_daily
-    print(current_day, milk_daily, milk)
 
     for i in range(len(cheese_storage)):
         to_pop = []
@@ -75,7 +75,7 @@ while True:
 
     total_milk += milk
     if current_day >= shoping_start:
-        if current_day.weekday() == 5 or current_day.weekday() == 6:
+        if current_day.weekday() == 5 or current_day.weekday() == 6:``
             wanted = 100
         else:
             wanted = 36

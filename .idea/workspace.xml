@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42f213ad-342a-4159-8a77-58c388db21e9" name="Default Changelist" comment="Zadanie niematuralne, metoda Sarrusa">
-      <change afterPath="$PROJECT_DIR$/Zbior85.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zbior86_5_brute.py" afterDir="false" />
+    <list default="true" id="42f213ad-342a-4159-8a77-58c388db21e9" name="Default Changelist" comment="Zbiór zadań maturalnych, stara formuła, zadanie 85">
+      <change afterPath="$PROJECT_DIR$/2011_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2011_5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zbior85.py" beforeDir="false" afterPath="$PROJECT_DIR$/Zbior85.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +55,29 @@
       <recent name="C:\Users\ADMIN\PycharmProjects\Matura" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Zbior85">
+  <component name="RunManager" selected="Python.2011_4">
+    <configuration name="2011_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Matura" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2011_4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Sarrus" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Matura" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -99,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Zbior86_5_brute" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Zbior85_5_brute" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Matura" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,7 +135,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zbior86_5_brute.py" />
+      <option name="SCRIPT_NAME" value="G:\Matura\Zbior85_5_brute.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,35 +166,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pierwiastek_funkcji" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Matura" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pierwiastek_funkcji.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2011_4" />
         <item itemvalue="Python.Zbior85" />
-        <item itemvalue="Python.Zbior86_5_brute" />
+        <item itemvalue="Python.Zbior85_5_brute" />
         <item itemvalue="Python.Sarrus" />
         <item itemvalue="Python.falsi" />
-        <item itemvalue="Python.pierwiastek_funkcji" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +187,10 @@
       <workItem from="1637311065434" duration="3385000" />
       <workItem from="1637564206419" duration="3236000" />
       <workItem from="1637599206863" duration="19000" />
-      <workItem from="1642148454585" duration="5848000" />
+      <workItem from="1642148454585" duration="6389000" />
+      <workItem from="1642401933948" duration="455000" />
+      <workItem from="1642402711275" duration="587000" />
+      <workItem from="1643563301826" duration="2720000" />
     </task>
     <task id="LOCAL-00001" summary="Zadanie 5 (Bazo danowe) matura 2016">
       <created>1618832581199</created>
@@ -230,7 +234,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637566522595</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Zbiór zadań maturalnych, stara formuła, zadanie 85">
+      <created>1642185135209</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1642185135209</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,7 +266,8 @@
     <MESSAGE value="iq check checker" />
     <MESSAGE value="Zadanie niematuralne, obliczanie pierwiastka funkcji" />
     <MESSAGE value="Zadanie niematuralne, metoda Sarrusa" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zadanie niematuralne, metoda Sarrusa" />
+    <MESSAGE value="Zbiór zadań maturalnych, stara formuła, zadanie 85" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zbiór zadań maturalnych, stara formuła, zadanie 85" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -295,14 +307,35 @@
           <line>85</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2011_4.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2011_4.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2011_4.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2011_4.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Matura$Sarrus.coverage" NAME="Sarrus Coverage Results" MODIFIED="1637566342968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Matura$Zbior86_5_brute.coverage" NAME="Zbior86_5_brute Coverage Results" MODIFIED="1642155353713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Matura$2011_4.coverage" NAME="2011_4 Coverage Results" MODIFIED="1643565228752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Matura$pierwiastek_funkcji.coverage" NAME="pierwiastek_funkcji Coverage Results" MODIFIED="1637312668700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Matura$Zbior85.coverage" NAME="Zbior85 Coverage Results" MODIFIED="1642155596856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Matura$Zbior85.coverage" NAME="Zbior85 Coverage Results" MODIFIED="1642403150361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Matura$falsi.coverage" NAME="falsi Coverage Results" MODIFIED="1637565131840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
