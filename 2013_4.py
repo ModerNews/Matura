@@ -33,10 +33,10 @@ while True:
         count_only_acorns += 1
         acorns -= 20*animals
 
-    if now.weekday() == 5:
+    if now.weekday() == 4:
         count_wheat += 1
         wheat += 15000
-    if now.weekday() == 2:
+    if now.weekday() == 1:
         count_acorns += 1
         acorns += 4000
 
@@ -59,4 +59,4 @@ with open('zubry_out.csv', 'w', encoding='utf-8') as file:
     file.write('\n'.join(out_str))
 print('Written to zubry_out.csv')
 
-print("#5\n", '121, for more refer to zubry_brute.py')
+print("#5\n", 'o 6, for more refer to zubry_brute.py')
