@@ -1,0 +1,3 @@
+USE Zb111;
+SELECT COUNT(DISTINCT Domena)
+FROM Zad3_temp;
