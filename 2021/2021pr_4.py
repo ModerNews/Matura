@@ -1,4 +1,4 @@
-with open('galerie.txt') as file:
+with open('../galerie.txt') as file:
     data = file.read()
 
 data = data.split('\n')

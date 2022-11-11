@@ -5,7 +5,93 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42f213ad-342a-4159-8a77-58c388db21e9" name="Default Changelist" comment="Anagram - rok 2010 zadanie 4">
-      <change afterPath="$PROJECT_DIR$/monte_carlo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Matura.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Matura.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2005_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/2005/2005_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2005_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/2005/2005_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2007_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/2007/2007_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2008_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/2008/2008_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2008_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/2008/2008_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2010_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/2010/2010_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2011_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/2011/2011_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2011_4_wykres.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/2011/2011_4_wykres.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2011_5.db" beforeDir="false" afterPath="$PROJECT_DIR$/2011/2011_5.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2011_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/2011/2011_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2011_5_writer.py" beforeDir="false" afterPath="$PROJECT_DIR$/2011/2011_5_writer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2011_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/2011/2011_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2012_4_pp.py" beforeDir="false" afterPath="$PROJECT_DIR$/2012/2012_4_pp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2012_4_pr.py" beforeDir="false" afterPath="$PROJECT_DIR$/2012/2012_4_pr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2013_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/2013/2013_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2015_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/2015/2015_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2016_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/2016/2016_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2016_4_brute.py" beforeDir="false" afterPath="$PROJECT_DIR$/2016/2016_4_brute.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2016_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/2016/2016_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/2017/2017_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017_5_brute.py" beforeDir="false" afterPath="$PROJECT_DIR$/2017/2017_5_brute.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/2020_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/2021_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021pr_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/2021pr_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baza.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ColorQuantization.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/ColorQuantization.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JustSnap.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/JustSnap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Konwerter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Konwerter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KorespondencjaSeryjna.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/KorespondencjaSeryjna.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LN_Extractor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algos/Matrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Algos/Matrix.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MnorzenieMacierzy - main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algos/MnorzenieMacierzy - main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plagiat.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Plagiat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sarrus.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Sarrus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Skaner01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Skaner01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uboot.py" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScrapping.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/WebScrapping.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zb111/asn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Zbior/Zb111/asn.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zb111/create_tables.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Zbior/Zb111/create_tables.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zb111/import.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Zbior/Zb111/import.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zb111/kraje.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Zbior/Zb111/kraje.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zb111/malware.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Zbior/Zb111/malware.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zb111/zad1.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Zbior/Zb111/zad1.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zb111/zad2.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Zbior/Zb111/zad2.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zb111/zad3_1.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Zbior/Zb111/zad3_1.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zb111/zad3_2.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Zbior/Zb111/zad3_2.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zb111/zad3_gen.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Zbior/Zb111/zad3_gen.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zb111/zad4.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Zbior/Zb111/zad4.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zb111/zad5.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Zbior/Zb111/zad5.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zbior 76.py" beforeDir="false" afterPath="$PROJECT_DIR$/Zbior/Zbior 76.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zbior 77.py" beforeDir="false" afterPath="$PROJECT_DIR$/Zbior/Zbior 77.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zbior73.py" beforeDir="false" afterPath="$PROJECT_DIR$/Zbior/Zbior73.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zbior75.py" beforeDir="false" afterPath="$PROJECT_DIR$/Zbior/Zbior75.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zbior85.py" beforeDir="false" afterPath="$PROJECT_DIR$/Zbior/Zbior85.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zbior85_5_brute.py" beforeDir="false" afterPath="$PROJECT_DIR$/Zbior/Zbior85_5_brute.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anagram.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2010/anagram.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dane.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2008/dane.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dane4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2020/dane4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/everydayAPI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/everydayAPI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/falsi.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algos/falsi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galerie.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/galerie.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galerie_przyklad.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/galerie_przyklad.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/instrukcje.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/instrukcje.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/klucze1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2012/klucze1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/klucze2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2012/klucze2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/liczby.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2015/liczby.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meldunek.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2016/meldunek.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/monte_carlo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algos/monte_carlo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/names.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/names.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odm.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/odm.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pierwiastek_funkcji.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algos/pierwiastek_funkcji.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Sarrus.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Sarrus.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Skaner01.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Skaner01.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slowa.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2008/slowa.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studenci.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2016/studenci.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temporary_LN_file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tj.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2012/tj.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wypozyczenia.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2016/wypozyczenia.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zubry_brute.py" beforeDir="false" afterPath="$PROJECT_DIR$/2013/2013_4_brute.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/~$Baza.xlsx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,24 +120,36 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="1rDTEvk6NmQuNw68Z9w079Qz52k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/grzes/PycharmProjects/Matura/2013",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\grzes\PycharmProjects\Matura\2013" />
+      <recent name="C:\Users\grzes\PycharmProjects\Matura" />
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\uczen\Documents\Gruzin\Matura" />
-      <recent name="C:\Users\ADMIN\PycharmProjects\Matura" />
+      <recent name="C:\Users\grzes\PycharmProjects\Matura\Algos" />
+      <recent name="C:\Users\grzes\PycharmProjects\Matura\Projects" />
+      <recent name="C:\Users\grzes\PycharmProjects\Matura\res" />
+      <recent name="C:\Users\grzes\PycharmProjects\Matura\2021" />
+      <recent name="C:\Users\grzes\PycharmProjects\Matura\2020" />
     </key>
   </component>
   <component name="RunManager" selected="Python.monte_carlo">
@@ -68,7 +166,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2016_4.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\grzes\PycharmProjects\Matura\2016\2016_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,7 +188,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2016_4_brute.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\grzes\PycharmProjects\Matura\2016\2016_4_brute.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +210,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2017_5.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\grzes\PycharmProjects\Matura\2017\2017_5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +232,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2017_5_brute.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\grzes\PycharmProjects\Matura\2017\2017_5_brute.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,7 +254,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/monte_carlo.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\grzes\PycharmProjects\Matura\Algos\monte_carlo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,6 +298,10 @@
       <workItem from="1646580373296" duration="7000" />
       <workItem from="1646638830400" duration="4003000" />
       <workItem from="1664276968049" duration="1139000" />
+      <workItem from="1668207628903" duration="202000" />
+      <workItem from="1668208065256" duration="76000" />
+      <workItem from="1668208160153" duration="572000" />
+      <workItem from="1668208778277" duration="726000" />
     </task>
     <task id="LOCAL-00001" summary="Zadanie 5 (Bazo danowe) matura 2016">
       <created>1618832581199</created>
@@ -317,6 +419,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/2017/Matura" />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
     <MESSAGE value="Zadanie 5 (Bazo danowe) matura 2016" />
     <MESSAGE value="Algorytmy:&#10;Wyszukiwanie maksymalnej i minimalnej&#10;Wyszukiwanie Lidera&#10;Wyszukiwanie z wartownikiem" />
     <MESSAGE value="Porządkowanie" />
@@ -337,72 +443,72 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/everydayAPI.py</url>
+          <url>file://$PROJECT_DIR$/2017/Matura/everydayAPI.py</url>
           <line>120</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/everydayAPI.py</url>
+          <url>file://$PROJECT_DIR$/2017/Matura/everydayAPI.py</url>
           <line>119</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/everydayAPI.py</url>
+          <url>file://$PROJECT_DIR$/2017/Matura/everydayAPI.py</url>
           <line>121</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/everydayAPI.py</url>
+          <url>file://$PROJECT_DIR$/2017/Matura/everydayAPI.py</url>
           <line>131</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/falsi.py</url>
+          <url>file://$PROJECT_DIR$/2017/Matura/falsi.py</url>
           <line>48</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/falsi.py</url>
+          <url>file://$PROJECT_DIR$/2017/Matura/falsi.py</url>
           <line>41</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Zbior85.py</url>
+          <url>file://$PROJECT_DIR$/2017/Matura/Zbior85.py</url>
           <line>85</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/2011_4.py</url>
+          <url>file://$PROJECT_DIR$/2017/Matura/2011/2011_4.py</url>
           <line>23</line>
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/2011_4.py</url>
+          <url>file://$PROJECT_DIR$/2017/Matura/2011/2011_4.py</url>
           <line>27</line>
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/2011_4.py</url>
+          <url>file://$PROJECT_DIR$/2017/Matura/2011/2011_4.py</url>
           <line>17</line>
           <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/2011_4.py</url>
+          <url>file://$PROJECT_DIR$/2017/Matura/2011/2011_4.py</url>
           <line>21</line>
           <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/2017_5_brute.py</url>
+          <url>file://$PROJECT_DIR$/2017/Matura/2017_5_brute.py</url>
           <line>16</line>
           <option name="timeStamp" value="44" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/2017_5_brute.py</url>
+          <url>file://$PROJECT_DIR$/2017/Matura/2017_5_brute.py</url>
           <line>26</line>
           <option name="timeStamp" value="45" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/2017_5_brute.py</url>
+          <url>file://$PROJECT_DIR$/2017/Matura/2017_5_brute.py</url>
           <line>38</line>
           <option name="timeStamp" value="46" />
         </line-breakpoint>
@@ -410,23 +516,23 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Matura$2016_4_brute.coverage" NAME="2016_4_brute Coverage Results" MODIFIED="1646641356877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Matura$2005_5.coverage" NAME="2005_5 Coverage Results" MODIFIED="1646035237520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Matura$Sarrus.coverage" NAME="Sarrus Coverage Results" MODIFIED="1637566342968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Matura$zubry_brute.coverage" NAME="zubry_brute Coverage Results" MODIFIED="1645974361493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Matura$pierwiastek_funkcji.coverage" NAME="pierwiastek_funkcji Coverage Results" MODIFIED="1637312668700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Matura$2011_5.coverage" NAME="2011_5 Coverage Results" MODIFIED="1643578127442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Matura$2017_5_brute.coverage" NAME="2017_5_brute Coverage Results" MODIFIED="1646385698770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Matura$monte_carlo.coverage" NAME="monte_carlo Coverage Results" MODIFIED="1664277992838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Matura$Zbior86_5_brute.coverage" NAME="Zbior86_5_brute Coverage Results" MODIFIED="1642155353713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Matura$2011_4.coverage" NAME="2011_4 Coverage Results" MODIFIED="1643565228752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Matura$2011_6.coverage" NAME="2011_6 Coverage Results" MODIFIED="1643579423758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Matura$falsi.coverage" NAME="falsi Coverage Results" MODIFIED="1637565131840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Matura$anagram.coverage" NAME="anagram Coverage Results" MODIFIED="1645971091735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Matura$2017_5.coverage" NAME="2017_5 Coverage Results" MODIFIED="1646384501229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Matura$zubry.coverage" NAME="zubry Coverage Results" MODIFIED="1645974506093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Matura$2005_5.coverage" NAME="2005_5 Coverage Results" MODIFIED="1646035237520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Matura$2010_4.coverage" NAME="2010_4 Coverage Results" MODIFIED="1645975197011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Matura$2016_4.coverage" NAME="2016_4 Coverage Results" MODIFIED="1646642274067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Matura$2011_6.coverage" NAME="2011_6 Coverage Results" MODIFIED="1643579423758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Matura$2017_5_brute.coverage" NAME="2017_5_brute Coverage Results" MODIFIED="1646385698770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Matura$2016_4_brute.coverage" NAME="2016_4_brute Coverage Results" MODIFIED="1646641356877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Matura$monte_carlo.coverage" NAME="monte_carlo Coverage Results" MODIFIED="1664277992838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Matura$2017_5.coverage" NAME="2017_5 Coverage Results" MODIFIED="1646384501229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Matura$Zbior85.coverage" NAME="Zbior85 Coverage Results" MODIFIED="1642403150361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Matura$Zbior86_5_brute.coverage" NAME="Zbior86_5_brute Coverage Results" MODIFIED="1642155353713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Matura$2011_5.coverage" NAME="2011_5 Coverage Results" MODIFIED="1643578127442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Matura$zubry.coverage" NAME="zubry Coverage Results" MODIFIED="1645974506093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Matura$anagram.coverage" NAME="anagram Coverage Results" MODIFIED="1645971091735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Matura$pierwiastek_funkcji.coverage" NAME="pierwiastek_funkcji Coverage Results" MODIFIED="1637312668700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Matura$2011_4.coverage" NAME="2011_4 Coverage Results" MODIFIED="1643565228752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Matura$Sarrus.coverage" NAME="Sarrus Coverage Results" MODIFIED="1637566342968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Matura$zubry_brute.coverage" NAME="zubry_brute Coverage Results" MODIFIED="1645974361493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

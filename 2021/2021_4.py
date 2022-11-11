@@ -14,7 +14,7 @@ def step(string: list[str], instruction: str, value: str):
 
 string = []
 
-with open('instrukcje.txt', 'r') as file:
+with open('../instrukcje.txt', 'r') as file:
     instructions = file.read()
 
 instructions = instructions.split('\n')[:-1]

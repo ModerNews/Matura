@@ -112,7 +112,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-hasła_a.txt
-output.py
-snap.txt
-sz.txt
+
+.idea/

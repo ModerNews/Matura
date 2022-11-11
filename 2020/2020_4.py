@@ -3,7 +3,7 @@ import logging as logger
 logger.basicConfig(filename='Ciagi.log', level=logger.DEBUG, format='[%(levelname)s] %(message)s', filemode='w')
 logger.info('Starting')
 
-with open('dane4.txt', 'r') as file:
+with open('../dane4.txt', 'r') as file:
     series = file.read().split()
 
 differs = []
