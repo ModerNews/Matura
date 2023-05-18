@@ -11,7 +11,7 @@ diff_change = [diffs[i - 1] / diffs[i] for i in range(1, len(diffs))]
 diff_change = sum(diff_change) / len(diff_change)
 print(diff_change)
 
-while data[-1] < 366*28:
+while data[-1] < 186*28:
     diff = diffs[-1] * (1 + diff_change)
     diffs.append(diff)
     data.append(data[-1] + diff)
@@ -36,6 +36,6 @@ plt.xlabel('Rok szkolny')
 plt.title('Przewidywana liczba godzin nieobecności Rafist0 w następnych latach')
 plt.annotate(f'Ilość godzin w roku szkolnym: {186*28}', (0, 186*28))
 plt.plot(list(range(len(data))), [186*28 for i in range(len(data))], color='orange', linestyle='--')
-plt.plot(list(range(len(data))), [365*28 + 365*28*0.1 for i in range(len(data))], color='purple', linestyle='--')
+# plt.plot(list(range(len(data))), [365*28 + 365*28*0.1 for i in range(len(data))], color='purple', linestyle='--')
 # plt.plot(data[idx], 186*28, 'ro')
 plt.show()
