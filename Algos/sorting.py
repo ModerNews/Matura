@@ -12,18 +12,14 @@ def bubble_sort(arr: list):
 
 
 def insertion_sort(arr: list):
-    is_sorted = False
-    while not is_sorted:
-        is_sorted = True
-        for i in range(len(arr) - 1):
-            if arr[i] < arr[i + 1]:
-                pass
-            else:
-                is_sorted = False
-                tmp = arr[i]
-                arr[i] = arr[i + 1]
-                arr[i + 1] = tmp
-                break
+    for i in range(1, len(arr) - 1):
+        key = arr[i]
+        j = i - 1
+
+        while j >= 0 and key < arr[j]:
+            arr[j + 1] = arr[j]
+            j -= 1
+        arr[j + 1] = key
     return arr
 
 
@@ -83,14 +79,7 @@ def partition(array, low, high):
     (array[i + 1], array[high]) = (array[high], array[i + 1])
 
     return array, i + 1
-  
-  
-# def quick_sort(array, low, high):
-#     if low < high:
-#         pi = partition(array, low, high)
-#         return pi
-        # quick_sort(array, low, pi - 1)
-        # quick_sort(array, pi + 1, high)
+
 
 def quick_sort(arr: list, *args):
     if len(arr) > 1:
