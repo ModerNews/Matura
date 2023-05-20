@@ -23,14 +23,16 @@ def insertion_sort(arr: list):
     return arr
 
 
+#%%
 def selection_sort(arr: list):
     for i in range(len(arr)):
         min_index = i
         for j in range(i + 1, len(arr)):
             if arr[j] < arr[min_index]:
-                tmp = arr[j]
-                arr[j] = arr[min_index]
-                arr[min_index] = tmp
+                min_index = j
+        tmp = arr[i]
+        arr[i] = arr[min_index]
+        arr[min_index] = tmp
     return arr
 
 
